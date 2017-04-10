@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\miguel\documents\visual studio 2015\projects\consoleapplication10\consoleapplication10\source.cpp(311): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\miguel\documents\visual studio 2015\projects\consoleapplication10\consoleapplication10\source.cpp(380): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\miguel\documents\visual studio 2015\projects\consoleapplication10\consoleapplication10\source.cpp(387): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\miguel\documents\visual studio 2015\projects\consoleapplication10\consoleapplication10\source.cpp(401): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication10.vcxproj -> c:\users\miguel\documents\visual studio 2015\Projects\ConsoleApplication10\Debug\ConsoleApplication10.exe
+  ConsoleApplication10.vcxproj -> c:\users\miguel\documents\visual studio 2015\Projects\ConsoleApplication10\Debug\ConsoleApplication10.pdb (Full PDB)
